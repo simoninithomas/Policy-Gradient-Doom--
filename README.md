@@ -1,4 +1,4 @@
-# Policy-Gradient-Doom
+# Policy-Gradient-Doom 🎮
 
 In this notebook, we will create a Policy Gradient based agent that tries to survive in an hostile environement by collecting health.
 <br>
